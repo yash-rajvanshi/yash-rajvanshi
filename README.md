@@ -29,6 +29,7 @@
 | Project | Description | Tech Stack | Live Link |
 |--------|-------------|------------|-----------|
 | **[School Website](https://www.greenheavenacademy.in/)** | Freelance project for a school website | Next.js, TailwindCSS, Git | 🌐 |
+| **[School Dashboard](https://scholio.vercel.app/)** | A full-stack role-based school dashboard where admins can post announcements and exam dates. Students get personalized updates. Secure login system for both roles. | Next.js, React.js, TailwindCSS, MongoDB | 🌐 |
 | **[FoodCription](https://food-cription.vercel.app/)** | Food prescription website focused on user-friendly UI & SEO | Next.js, React.js, TailwindCSS | 🌐 |
 | **[Weather App](https://yash-rajvanshi.github.io/Weather-App/)** | Real-time weather updates via OpenWeather API | HTML, CSS, JS | 🌐 |
 | **[Wake a Mole Game](https://yash-rajvanshi.github.io/Wake-a-Mole-Game/)** | A fun game with randomized mole appearances | HTML, CSS, JS | 🌐 |
